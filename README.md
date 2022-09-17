@@ -16,4 +16,4 @@ The graph from the 4th order function looked very similar to the function from 3
 
 The 5th order polynomial fitted the dataset the most but decided not to try higher functions because I did not want my model to overfit the training dataset. The accuracy of the 5th order polynomial was very good (69.5% compared to the other 3 models)
 The mean squared error also reduced to 69.515 compared to other models which had higher average least square errors.
-![Alt text]()
+![Alt text](https://github.com/aboadia/Machine-Learning-Linear-Regression/blob/main/Screen%20Shot%202022-09-16%20at%2010.28.54%20PM.png)
