@@ -11,14 +11,18 @@ between the variables, so I decided to try a higher order of 3. The accuracy of 
 ![Screen Shot 2022-09-16 at 10 28 28 PM](https://user-images.githubusercontent.com/89150972/190839244-92fe6cb0-d85a-4038-857e-bae68b52bdb5.png)
 
 The cubic function fitted the training set better than the 2nd order polynomial function. The cubic function model performed better than the 2nd order function model with an accuracy of 46% and mean squared error of 108.03. The model performed better and had a smaller error which is good. I decided to still find out how it fits using the 4th order function.
-![Alt text](https://github.com/aboadia/Machine-Learning-Linear-Regression/blob/main/Screen%20Shot%202022-09-16%20at%2010.28.36%20PM.png)
+![Screen Shot 2022-09-16 at 10 28 36 PM](https://user-images.githubusercontent.com/89150972/190839253-d3a6d40f-7912-44f0-b2b4-6cf143422d63.png)
+
+
 
 The graph from the 4th order function looked very similar to the function from 3rd order and not surprisingly,produced similar accuracy and mean squred error (46% and 107 respectively). Just to have a clear understanding I produced to find the 5th order function and check how it fitted the model.
-![Alt text](https://github.com/aboadia/Machine-Learning-Linear-Regression/blob/main/Screen%20Shot%202022-09-16%20at%2010.28.44%20PM.png)
+![Screen Shot 2022-09-16 at 10 28 44 PM](https://user-images.githubusercontent.com/89150972/190839269-c14baaa2-1510-45e0-8104-251c08492c36.png)
+
 
 The 5th order polynomial fitted the dataset the most but decided not to try higher functions because I did not want my model to overfit the training dataset. The accuracy of the 5th order polynomial was very good (69.5% compared to the other 3 models)
 The mean squared error also reduced to 69.515 compared to other models which had higher average least square errors.
-![Alt text](https://github.com/aboadia/Machine-Learning-Linear-Regression/blob/main/Screen%20Shot%202022-09-16%20at%2010.28.54%20PM.png)
+![Screen Shot 2022-09-16 at 10 28 54 PM](https://user-images.githubusercontent.com/89150972/190839275-525d0968-0c7c-4f14-891a-e5c6ac80370a.png)
+
 
 
 # QUESTION 2:
