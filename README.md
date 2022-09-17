@@ -12,7 +12,7 @@ The cubic function fitted the training set better than the 2nd order polynomial 
 ![Alt text](https://github.com/aboadia/Machine-Learning-Linear-Regression/blob/main/Screen%20Shot%202022-09-16%20at%2010.28.36%20PM.png)
 
 The graph from the 4th order function looked very similar to the function from 3rd order and not surprisingly,produced similar accuracy and mean squred error (46% and 107 respectively). Just to have a clear understanding I produced to find the 5th order function and check how it fitted the model.
-![Alt text]()
+![Alt text](https://github.com/aboadia/Machine-Learning-Linear-Regression/blob/main/Screen%20Shot%202022-09-16%20at%2010.28.44%20PM.png)
 
 The 5th order polynomial fitted the dataset the most but decided not to try higher functions because I did not want my model to overfit the training dataset. The accuracy of the 5th order polynomial was very good (69.5% compared to the other 3 models)
 The mean squared error also reduced to 69.515 compared to other models which had higher average least square errors.
